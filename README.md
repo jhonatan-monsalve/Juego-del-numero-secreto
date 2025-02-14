@@ -22,7 +22,7 @@ Este es un simple juego desarrollado en **HTML, CSS y JavaScript** en el que el 
 
 1. **Clona** este repositorio:  
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone  https://github.com/jhonatan-monsalve/Juego-del-numero-secreto.git
    ```
 2. Abre el archivo `index.html` en tu navegador.  
 3. Introduce un número y presiona **"Intentar"**.  
